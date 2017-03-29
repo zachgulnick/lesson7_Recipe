@@ -13,8 +13,7 @@ LIS 2360:  Web Application Development
 (Editing the javascript to respond to click and then adding hover)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://github.com/zachgulnick/lesson7_Recipe)
 
 ### Lessons Learned in the Assignment:
 1. (Duplicate c9 files)
